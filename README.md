@@ -4,6 +4,25 @@ Una aplicación moderna para gestionar conocimientos, ideas y tareas con la ayud
 
 ![Second Brain AI](https://i.imgur.com/YourImageHere.png)
 
+## 🚀 Estado del Proyecto
+
+**Versión actual:** v1.0.0 (Fase 1 completada)
+
+[![GitHub tag](https://img.shields.io/github/v/tag/elgranfelip3/second-brain-ai)](https://github.com/elgranfelip3/second-brain-ai/tags)
+[![Estado del Proyecto](https://img.shields.io/badge/Estado-En%20Desarrollo-yellowgreen)](https://github.com/elgranfelip3/second-brain-ai)
+
+### Logros Actuales:
+- ✅ Configuración completa del entorno de desarrollo
+- ✅ Implementación de la interfaz principal con Tailwind CSS
+- ✅ Componentes de barra lateral y contenido principal
+- ✅ Integración del widget de chat con OpenAI
+- ✅ Estructura de proyecto organizada siguiendo mejores prácticas
+
+### Próximos Pasos:
+- 🔄 Autenticación de usuarios
+- 🔄 Almacenamiento persistente de datos
+- 🔄 Refinamiento del modelo de IA para tareas específicas
+
 ## ✨ Características
 
 - **Organización de conocimiento**: Gestiona notas, tareas y documentos en un solo lugar
@@ -28,7 +47,7 @@ Una aplicación moderna para gestionar conocimientos, ideas y tareas con la ayud
 ### Pasos
 1. Clona el repositorio
    ```bash
-   git clone https://github.com/tu-usuario/second-brain-ai.git
+   git clone https://github.com/elgranfelip3/second-brain-ai.git
    cd second-brain-ai
    ```
 
